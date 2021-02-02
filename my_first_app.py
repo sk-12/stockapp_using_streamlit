@@ -16,7 +16,7 @@ Here are the closing price,opening price and volume of Catterpillar,Google,Micro
 """
 
 )
-st.title('my_first_app')
+
 
 st.write('#Microsoft')
 
